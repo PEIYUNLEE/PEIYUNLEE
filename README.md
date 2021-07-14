@@ -16,4 +16,4 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&layout=compact&theme=radical" />
+![](https://raw.githubusercontent.com/PEIYUNLEE/github-stats-transparent/output/generated/languages.svg)
