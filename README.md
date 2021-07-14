@@ -15,6 +15,4 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-
-### 🔔 Most Used Lanauages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&layout=compact&theme=radical" />
