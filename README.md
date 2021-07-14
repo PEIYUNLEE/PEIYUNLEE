@@ -15,5 +15,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-    
-![](https://raw.githubusercontent.com/PEIYUNLEE/github-stats-transparent/output/generated/languages.svg)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&hide=TeX&layout=compact)
