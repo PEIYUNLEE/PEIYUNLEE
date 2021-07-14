@@ -18,4 +18,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&layout=compact)
