@@ -1,22 +1,11 @@
-### Hi there 👋
+### 👋 Hi there I'm peiyun.
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PEIYUNLEE.PEIYUNLEE&color=00cf00)
 
-<!--
-**PEIYUNLEE/PEIYUNLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at [National Taipei University of Education](https://www.ntue.edu.tw/)
+### :book: About me
+- 🖥 Front-end Developer
+- 🔭 Studying for my master's degree in Digital Technology Design at [National Taipei University of Education](https://www.ntue.edu.tw/)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![](https://github-readme-stats.vercel.app/api?username=PEIYUNLEE)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PEIYUNLEE&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PEIYUNLEE.PEIYUNLEE)
+### 🔔 Github Stats
+![Peiyun's github stats](https://github-readme-stats.vercel.app/api?username=PEIYUNLEE&show_icons=true&theme=dracula&hide=stars,issues)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&layout=compact&theme=radical" />
