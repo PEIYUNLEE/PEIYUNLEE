@@ -6,6 +6,5 @@
 - 🔭 Studying for my master's degree in Digital Technology Design at [National Taipei University of Education](https://www.ntue.edu.tw/)
 - 🌱 I’m currently learning ...
 
-### 🔔 Github Stats
-![Peiyun's github stats](https://github-readme-stats.vercel.app/api?username=PEIYUNLEE&show_icons=true&theme=dracula&hide=stars,issues)
+### 🔔 Most Used Lanauages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&layout=compact&theme=radical" />
