@@ -19,5 +19,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEIYUNLEE&layout=compact)
-[![peiyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PEIYUNLEE)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![peiyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PEIYUNLEE)](https://github.com/anuraghazra/github-readme-stats) -->
 
