@@ -24,5 +24,5 @@
 <!-- [![peiyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PEIYUNLEE)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Competition-Bot&layout=compact)
-<!-- [![peiyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Competition)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![peiyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Competition-Bot)](https://github.com/anuraghazra/github-readme-stats) -->
 
